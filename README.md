@@ -11,9 +11,9 @@
 - pip install bs4
 - rm -rf FARIS-XD
 - git clone https://github.com/Ahg-XD/FARIS-XD
-- cd FARIS-XD
+- cd PREE-PUL
 - git pull
-- python ijo.py
+- python pree.py
      
 
  ```This Tools is Free Enjoy ```</br>
