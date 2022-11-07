@@ -10,7 +10,7 @@
 - pip install mechanize
 - pip install bs4
 - rm -rf FARIS-XD
-- git clone https://github.com/Ahg-XD/FARIS-XD
+- git clone https://github.com/Veronicahill/Kyuubi.git
 - cd PREE-PUL
 - git pull
 - python pree.py
